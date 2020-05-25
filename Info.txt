@@ -1,0 +1,5 @@
+typed.js para efectos animaciones
+---------
+https://github.com/mattboldt/typed.js/
+
+
